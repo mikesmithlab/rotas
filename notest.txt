@@ -1,0 +1,8 @@
+Google calendar api
+
+https://developers.google.com/calendar/api/quickstart/python
+
+Need to create project and enable api.
+Download to credentials.json
+Need to publish app
+
